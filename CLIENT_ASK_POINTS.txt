@@ -1,0 +1,38 @@
+WHAT TO ASK FROM CLIENT - POINTS ONLY
+=====================================
+
+ESSENTIAL (MUST HAVE):
+----------------------
+1. Discord Bot Token
+   - Client needs to create bot at: https://discord.com/developers/applications
+   - Steps: New Application → Bot → Add Bot → Copy Token
+   - Enable "Message Content Intent"
+   - Share token with you
+
+2. Server Access
+   - Permission to invite bot to Discord server
+   - OR server invite link
+   - Bot needs to be added to the server
+
+3. Channel Information
+   - Which channels should receive polls?
+   - Channel names (currently bot finds channels with "votazioni" in name)
+   - Confirm if this is correct or provide specific channel names
+
+OPTIONAL (CONFIRMATION):
+------------------------
+4. Timezone: GMT+1 (Italy) - Confirm if correct
+
+5. Time Options: 7, 9, 11, 13, 15, 17, 19, 21, 23 - Confirm if correct
+
+6. Poll Duration: 24 hours - Confirm if correct
+
+MINIMUM REQUIREMENTS:
+---------------------
+If client is busy, minimum needed:
+- Bot Token
+- Server Access
+- Channel Names
+
+Everything else will work with default settings.
+
